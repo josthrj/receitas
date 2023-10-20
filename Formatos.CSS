@@ -1,0 +1,158 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ef8340;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #092327;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background: #ef8354;
+
+}
+
+.corpo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+.linha1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font: Arial, Helvetica, sans-serif;
+    font-size:large;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    font: Arial, Helvetica, sans-serif;
+}
+
+
+
+.body_2{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ef8340;
+}
+
+.conteiner{
+    width: 900px;
+    height: 600px;
+    border-color: black 4px;
+    padding: 30px;
+    margin: auto;
+}
+
+.caja1{
+    background-color:white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #092327;
+    border-radius: 2px;
+    border-top: solid 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding: 8px;
+    margin: 20px;
+    width: 200px;
+    height: 500px;
+    float: left;
+}
+
+.conteudo{
+    padding: 10px;
+}
+
+.footer{
+    padding: 10px;
+    border-top: solid 1px #092327;
+}
+
+.caja2{
+    background-color:white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #092327;
+    border-radius: 2px;
+    border-top: solid 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding: 8px;
+    margin: 20px;
+    width: 200px;
+    height: 500px;
+    float: left;
+}
+
+.conteudo{
+    padding: 10px;
+}
+
+.footer{
+    padding: 10px;
+    border-top: solid 1px #092327;
+}
+
+.caja3{
+    background-color:white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #092327;
+    border-radius: 2px;
+    border-top: solid 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding: 8px;
+    margin: 20px;
+    width: 200px;
+    height: 500px;
+    float: left;
+}
+
+.conteudo{
+    padding: 10px;
+}
+
+.footer{
+    padding: 10px;
+    border-top: solid 1px #092327;
+}
+
+.rodape{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    background: #092327;
+    color:white ;
+}
+
+
+
